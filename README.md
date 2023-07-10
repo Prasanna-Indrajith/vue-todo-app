@@ -1,6 +1,6 @@
 # Basic todo app - Prasa.I.
 
-This app created for learning vue 3. Published on github - 11 July 2023
+This app created for learning vue 3. Published on github - 11 July 2023 [site-preview](https://todo-app-pero.netlify.app/)
 
 ## Tech Stack
 
